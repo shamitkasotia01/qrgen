@@ -19,8 +19,7 @@ qrgen is a minimal and fast QR code app built with Jetpack Compose and CameraX. 
 
 ## 📸 Preview
 
-<img src="https://i.ibb.co/WWR8nBHZ/Screenshot-20250530-191509-qrgen.jpgg" width="300" alt="QRGen Demo" />
-<img src="https://i.ibb.co/mCvPsmgm/Screenshot-20250530-192717-qrgen.jpg" width="300" alt="QRGen Demo 2" />
+<img src="preview/demo1.jpg" width="300" alt="QRGen Demo" />
 
 ---
 
