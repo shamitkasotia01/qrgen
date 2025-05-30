@@ -1,6 +1,6 @@
 <div style="text-align: center;"><img src="preview/qrgen-splash.png" width="300" alt="grgen-logo"></div>
 
-# qrgen
+## ⚡ qrgen
 
 qrgen is a minimal and fast QR code app built with Jetpack Compose and CameraX. It supports both real-time QR code scanning using your device's camera and QR code generation from custom text or URLs. Scanned content is displayed in an expandable bottom sheet with copy support, while generated QR codes can be saved to your gallery with adjustable quality.
 
